@@ -31,7 +31,6 @@ Install python dependencies:
 pip install -r requirements.txt
 ```
 
-
 ## Acknowledgements
 
 - [Google Maps](https://www.google.com/maps), for the data, and the reviews.
