@@ -7,13 +7,14 @@ This is a Data Warehouse and Business Intelligence project, where to goal is to 
 ## Expertise
 
 - Web Scraping
-- Data Warehouse
 - Data Analysis
 - Deep Learning
-- Business Intelligence
+- Data Warehouse
+- Dashboarding
 
 ## Tools
 
+- Apify
 - Python
 - Apache Airflow
 - PostgreSQL
@@ -21,18 +22,9 @@ This is a Data Warehouse and Business Intelligence project, where to goal is to 
 
 ## Data
 
-The data used was scraped from google maps, with the help of [Apify](https://apify.com/), the raw file are available in the `data` folder.
-
-## Setting up the project
-
-Install python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+The data used was scraped from google maps, with the help of [Apify](https://apify.com/).
 
 ## Acknowledgements
 
 - [Google Maps](https://www.google.com/maps), for the data, and the reviews.
 - [Apify](https://apify.com/), for the web scraping tool, it's very easy to use, and the options were very flexible and accurate for our needs.
-- []
