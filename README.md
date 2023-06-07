@@ -8,7 +8,6 @@ This is a Data Warehouse and Business Intelligence project, where to goal is to 
 
 - Web Scraping
 - Data Analysis
-- Deep Learning
 - Data Warehouse
 - Dashboarding
 
@@ -16,15 +15,13 @@ This is a Data Warehouse and Business Intelligence project, where to goal is to 
 
 - Apify
 - Python
-- Apache Airflow
 - PostgreSQL
-- Tableau
+- Power BI web version
 
 ## Data
 
 The data used was scraped from google maps, with the help of [Apify](https://apify.com/).
 
-## Acknowledgements
+## Walkthrough
 
-- [Google Maps](https://www.google.com/maps), for the data, and the reviews.
-- [Apify](https://apify.com/), for the web scraping tool, it's very easy to use, and the options were very flexible and accurate for our needs.
+Please refer to the report file in the `reports` folder for a detailed walkthrough of the project.
