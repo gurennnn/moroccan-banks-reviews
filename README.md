@@ -24,4 +24,4 @@ The data used was scraped from google maps, with the help of [Apify](https://api
 
 ## Walkthrough
 
-Please refer to the report file in the `reports` folder for a detailed walkthrough of the project.
+Please refer to the report file in the `reports` folder for a detailed walkthrough of the project, and a view of the dashboard.
